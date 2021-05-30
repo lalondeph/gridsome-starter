@@ -27,7 +27,7 @@ export default function (Vue, { router, head, isClient }) {
     },
     {
       name: 'apple-mobile-web-app-title',
-      content: 'Gridsome Starter',
+      content: 'Philip Lalonde\'s Portfolio',
     },
     {
       name: 'apple-mobile-web-app-status-bar-style',
