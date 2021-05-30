@@ -1,6 +1,6 @@
 <template>
   <footer>
-    Copyright © {{ new Date().getFullYear() }}
+    Philip Lalonde © {{ new Date().getFullYear() }}
     <g-link :to="$static.metadata.siteUrl" :title="$static.metadata.siteName">{{
       $static.metadata.siteName
     }}</g-link>

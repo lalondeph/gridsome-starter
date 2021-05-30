@@ -12,7 +12,7 @@ export default {
     meta: [
       {
         name: 'description',
-        content: 'Gridsome starter to use for new projects.',
+        content: 'Philip Lalonde\'s Portfolio',
       },
     ],
   },

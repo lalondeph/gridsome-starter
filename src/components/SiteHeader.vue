@@ -8,7 +8,7 @@
       <h2 class="sr-only">Menu title</h2>
       <ul>
         <li>
-          <g-link to="/" title="Link">Link</g-link>
+          <g-link to="/" title="Link">Philip Lalonde</g-link>
         </li>
       </ul>
     </nav>
